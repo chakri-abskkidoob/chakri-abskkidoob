@@ -1,8 +1,5 @@
-<img src="https://promwad.com/sites/default/files/promwad_com_backend_development_banner_1920.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Chakravarthi Pasumarthi</h1>
 <h3 align="center">An Aspiring Backend Developer</h3>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakri-abskkidoob&label=Profile%20views&color=0e75b6&style=flat" alt="chakri-abskkidoob" /> </p>
 
@@ -15,8 +12,6 @@
 - 💬 Ask me about **Data Structures & Algorithms, Java, Spring, Basic MySQL**
 
 - 📫 How to reach me **chakripasumarthi@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/17hhifcq-g912hI-Uhaax5BIuTW2EdrSo/edit?usp=sharing&ouid=110788504153583169673&rtpof=true&sd=true](https://docs.google.com/document/d/17hhifcq-g912hI-Uhaax5BIuTW2EdrSo/edit?usp=sharing&ouid=110788504153583169673&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am Funny**
 
