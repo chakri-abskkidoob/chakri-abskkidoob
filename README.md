@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://dazzling-gumdrop-41d6be.netlify.app/](https://dazzling-gumdrop-41d6be.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chakripasumarthiportfolio.netlify.app/](https://chakripasumarthiportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@chakripasumarthi](https://medium.com/@chakripasumarthi)
 
